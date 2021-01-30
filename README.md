@@ -18,7 +18,7 @@ PS C:\> Install-Module CredentialLocker
 ```
 or download from here: https://www.powershellgallery.com/packages/CredentialLocker/.
 
-Also look for the script based version here [Powershell Module CredentialLocker](https://gallery.technet.microsoft.com/scriptcenter/Powershell-Module-f0f91920).
+Also look for the script based version here [Powershell Module CredentialLocker](https://github.com/MScholtes/TechNet-Gallery).
 ## List Of Commands
 ### Get-VaultCredential [-Resource &lt;Resource&gt;] [-UserName &lt;UserName&gt;]
 Retrieves credentials stored in the password vault searched by resource and/or user name.
